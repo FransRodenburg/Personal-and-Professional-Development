@@ -14,10 +14,9 @@ which-masters-can-i-do
 changing-programs
 scientific-writing
 overall-structure
-paragraph-structure
-sentence-structure
+writing-an-introduction
+sentence-readability
 Referencing
-additional-resources
 scientific-presentations
 the-hourglass
 use-of-color
