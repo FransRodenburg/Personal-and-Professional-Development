@@ -17,6 +17,7 @@ content
 writing-a-motivation-letter
 professionalism
 content-1
+structure
 networking
 self-test-r-programming-skill
 writing-a-minimal-working-example
