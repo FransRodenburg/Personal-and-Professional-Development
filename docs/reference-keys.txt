@@ -20,5 +20,5 @@ content-1
 structure
 networking
 self-test-r-programming-skill
-writing-a-minimal-working-example
+minimal-reproducible-example
 reflection
